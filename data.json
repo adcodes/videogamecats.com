@@ -1,0 +1,26 @@
+[
+  {
+    "game": "Stray",
+    "desc": "Meowing at a robot in Midtown",
+    "img": "images/stray-midtown.jpg",
+    "date": "2026-03-01"
+  },
+  {
+    "game": "Stray",
+    "desc": "Knocking things off a shelf — as cats do",
+    "img": "images/stray-shelf.jpg",
+    "date": "2026-03-10"
+  },
+  {
+    "game": "The Witcher 3",
+    "desc": "A cat judging Geralt from a barrel",
+    "img": "images/witcher3-cat.jpg",
+    "date": "2026-02-14"
+  },
+  {
+    "game": "Stardew Valley",
+    "desc": "Penny's cat blocking the path again",
+    "img": "images/stardew-cat.jpg",
+    "date": "2026-01-22"
+  }
+]
