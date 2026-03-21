@@ -8,19 +8,19 @@
   {
     "game": "Cyberpunk 2077",
     "desc": "Angry",
-    "img": "images/cyberpunk_2077/cyberpunk_2077_01",
+    "img": "images/cyberpunk_2077/cyberpunk_2077_01.png",
     "date": "2026-03-10"
   },
   {
     "game": "Marvel's Spider-Man: Miles Morales",
     "desc": "A cat judging Geralt from a barrel",
-    "img": "images/marvel's_spider-man_miles_morales/marvel's_spider-man_miles_morales_01",
+    "img": "images/marvel's_spider-man_miles_morales/marvel's_spider-man_miles_morales_01.jpg",
     "date": "2026-02-14"
   },
   {
     "game": "Marvel's Spider-Man: Miles Morales",
     "desc": "Penny's cat blocking the path again",
-    "img": "images/marvel's_spider-man_miles_morales/marvel's_spider-man_miles_morales_02",
+    "img": "images/marvel's_spider-man_miles_morales/marvel's_spider-man_miles_morales_02.jpg",
     "date": "2026-01-22"
   }
 ]
