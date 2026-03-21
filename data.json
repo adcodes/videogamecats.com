@@ -1,26 +1,26 @@
 [
   {
-    "game": "Stray",
-    "desc": "Meowing at a robot in Midtown",
-    "img": "images/stray-midtown.jpg",
+    "game": "Dark Souls",
+    "desc": "What is your decision?",
+    "img": "images/dark_souls/dark_souls_01.png",
     "date": "2026-03-01"
   },
   {
-    "game": "Stray",
-    "desc": "Knocking things off a shelf — as cats do",
-    "img": "images/stray-shelf.jpg",
+    "game": "Cyberpunk 2077",
+    "desc": "Angry",
+    "img": "images/cyberpunk_2077/cyberpunk_2077_01",
     "date": "2026-03-10"
   },
   {
-    "game": "The Witcher 3",
+    "game": "Marvel's Spider-Man: Miles Morales",
     "desc": "A cat judging Geralt from a barrel",
-    "img": "images/witcher3-cat.jpg",
+    "img": "images/marvel's_spider-man_miles_morales/marvel's_spider-man_miles_morales_01",
     "date": "2026-02-14"
   },
   {
-    "game": "Stardew Valley",
+    "game": "Marvel's Spider-Man: Miles Morales",
     "desc": "Penny's cat blocking the path again",
-    "img": "images/stardew-cat.jpg",
+    "img": "images/marvel's_spider-man_miles_morales/marvel's_spider-man_miles_morales_02",
     "date": "2026-01-22"
   }
 ]
