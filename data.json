@@ -19,8 +19,32 @@
   },
   {
     "game": "Marvel's Spider-Man: Miles Morales",
-    "desc": "Spider-Man and Spider-Man again",
+    "desc": "Spider-Man and Spider-Man",
     "img": "images/marvel's_spider-man_miles_morales/marvel's_spider-man_miles_morales_02.jpg",
+    "date": "2026-01-22"
+  }
+  {
+    "game": "A Castle Full of Cats",
+    "desc": "Enough Meows!",
+    "img": "images/a_castle_full_of_cats/a_castle_full_of_cats_01.png",
+    "date": "2026-01-22"
+  }
+  {
+    "game": "A Castle Full of Cats",
+    "desc": "Lily Vs Fofiño",
+    "img": "images/a_castle_full_of_cats/a_castle_full_of_cats_02.png",
+    "date": "2026-01-22"
+  }
+  {
+    "game": "A Building Full of Cats",
+    "desc": "Fofiño",
+    "img": "images/a_building_full_of_cats/a_building_full_of_cats_01.png",
+    "date": "2026-01-22"
+  }
+  {
+    "game": "Animal Crossing New Horizons",
+    "desc": "Cat Memes",
+    "img": "images/animal_rossing_new_horizons/animal_rossing_new_horizons_01.jpg",
     "date": "2026-01-22"
   }
 ]
