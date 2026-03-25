@@ -44,7 +44,55 @@
   {
     "game": "Animal Crossing New Horizons",
     "desc": "Cat Memes",
-    "img": "images/animal_crossing_new_horizons/animal_crossing_new_horizons_01.jpg",
+    "img": "images/animal_rossing_new_horizons/animal_rossing_new_horizons_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Void Bastards",
+    "desc": "Kitty Bot",
+    "img": "images/void_bastards/void_bastards_01.png",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "What Remains of Edith Finch",
+    "desc": "I was a cat!",
+    "img": "images/what_remains_of_edith_finch/what_remains_of_edith_finch_01.png",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Yakuza 0",
+    "desc": "Ally cats",
+    "img": "images/yakuza_0/yakuza_0_01.png",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Zombie Derby 2",
+    "desc": "Buy?",
+    "img": "images/zombie_derby_2/zombie_derby_2_01.png",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Tinykin",
+    "desc": "Cat",
+    "img": "images/tinykin/tinykin_01.png",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Tinykin",
+    "desc": "Catflap Chip",
+    "img": "images/tinykin/tinykin_02.png",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Tom Clancy's Rainbow Six Extraction",
+    "desc": "Rowrzilla",
+    "img": "images/tom_clancys_rainbow_six_extraction/tom_clancys_rainbow_six_extraction_01.png",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Tom Clancy's Rainbow Six Extraction",
+    "desc": "Stray Sphynx",
+    "img": "images/tom_clancys_rainbow_six_extraction/tom_clancys_rainbow_six_extraction_02.png",
     "date": "2026-01-22"
   }
 ]
