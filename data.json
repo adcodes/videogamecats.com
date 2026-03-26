@@ -178,5 +178,42 @@
     "desc": "Please adjust the slider...",
     "img": "images/the_stanley_parable_ultra_deluxe/the_stanley_parable_ultra_deluxe_01.jpg",
     "date": "2026-01-22"
+  },
+  {
+    "game": "Tacoma",
+    "desc": "Cats",
+    "img": "images/tacoma/tacoma_01.jpg",
+    "date": "2026-01-22"
+  },
+
+  {
+    "game": "Tacoma",
+    "desc": "Housecat",
+    "img": "images/tacoma/tacoma_02.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Teenage Mutant Ninja Turtles Shredder's Revenge",
+    "desc": "Big cats",
+    "img": "images/teenage_mutant_ninja_turtles_shredders_revenge/teenage_mutant_ninja_turtles_shredders_revenge_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "The Artful Escape",
+    "desc": "DO NOT TOUCH ME",
+    "img": "images/the_artful_escape/the_artful_escape_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Slime Rancher 2",
+    "desc": "Tabby Gordo",
+    "img": "images/slime_rancher_2/slime_rancher_2_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Space Jam A New Legacy",
+    "desc": "cat memes",
+    "img": "images/space_jam_a_new_legacy/space_jam_a_new_legacy_01.jpg",
+    "date": "2026-01-22"
   }
 ]
