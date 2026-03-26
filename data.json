@@ -323,5 +323,71 @@
     "desc": "Grumpy Cat",
     "img": "images/hidden_cats_in_berlin/hidden_cats_in_berlin_01.jpg",
     "date": "2026-01-22"
+  },
+  {
+    "game": "Spiritfarer Farewell Edition",
+    "desc": "Daffodil",
+    "img": "images/spiritfarer_farewell_edition/spiritfarer_farewell_edition_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Starfield",
+    "desc": "Plushie Galacticat",
+    "img": "images/starfield/starfield_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Starfield",
+    "desc": "Cat",
+    "img": "images/starfield/starfield_02.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "No Man's Sky",
+    "desc": "about 586 cats",
+    "img": "images/no_mans_sky/no_mans_sky_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "PUSS",
+    "desc": "Cat",
+    "img": "images/puss/puss_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Rain on your parade",
+    "desc": "Ah yes... you have found me",
+    "img": "images/rain_on_your_parade/rain_on_your_parade_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Ravenlok",
+    "desc": "I'm Nestor the cat.",
+    "img": "images/ravenlok/ravenlok_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Minecraft",
+    "desc": "1.11.0 Cat",
+    "img": "images/minecraft/minecraft_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Mineko's Night Market",
+    "desc": "Yes, you can pet them.",
+    "img": "images/minekos_night_market/minekos_night_market_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Mineko's Night Market",
+    "desc": "(taunting meows",
+    "img": "images/minekos_night_market/minekos_night_market_02.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Mineko's Night Market",
+    "desc": "Liberate the captured cats!",
+    "img": "images/minekos_night_market/minekos_night_market_03.jpg",
+    "date": "2026-01-22"
   }
 ]
