@@ -94,5 +94,60 @@
     "desc": "Stray Sphynx",
     "img": "images/tom_clancys_rainbow_six_extraction/tom_clancys_rainbow_six_extraction_02.jpg",
     "date": "2026-01-22"
+  },
+  {
+    "game": "PowerWash Simulator",
+    "desc": "Paws",
+    "img": "images/powerwash_simulator/powerwash_simulator_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "PowerWash Simulator",
+    "desc": "?",
+    "img": "images/powerwash_simulator/powerwash_simulator_02.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "PowerWash Simulator",
+    "desc": "Lost cat",
+    "img": "images/powerwash_simulator/powerwash_simulator_03.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Stray",
+    "desc": "Press O to Meow",
+    "img": "images/stray/stray_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Stray",
+    "desc": "R.I.P Humans",
+    "img": "images/stray/stray_02.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "The Good Life",
+    "desc": "Cat",
+    "img": "images/the_good_life/the_good_life_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Turnip Boy Commits Tax Evasion",
+    "desc": "Mega meow...",
+    "img": "images/turnip_boy_commits_tax_evasion/turnip_boy_commits_tax_evasion_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Unpacking",
+    "desc": "Meow",
+    "img": "images/unpacking/unpacking_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Vampire Survivors",
+    "desc": "Gatt Amari",
+    "img": "images/vampire_survivors/vampire_survivors_01.jpg",
+    "date": "2026-01-22"
   }
 ]
+
