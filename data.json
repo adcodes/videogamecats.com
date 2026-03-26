@@ -148,6 +148,35 @@
     "desc": "Gatt Amari",
     "img": "images/vampire_survivors/vampire_survivors_01.jpg",
     "date": "2026-01-22"
+  },
+  {
+    "game": "ELDEN RING",
+    "desc": "Long Cat Talisman",
+    "img": "images/elden_ring/elden_ring_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "ELDEN RING",
+    "desc": "Imp Heat (Cat)",
+    "img": "images/elden_ring/elden_ring_02.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "The Ascent",
+    "desc": "T-Shirt",
+    "img": "images/the_ascent/the_ascent_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "The Procession to Calvary",
+    "desc": "Tiny Lion",
+    "img": "images/the_procession_to_calvary/the_procession_to_calvary_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "The Stanley Parable Ultra Deluxe",
+    "desc": "Please adjust the slider...",
+    "img": "images/the_stanley_parable_ultra_deluxe/the_stanley_parable_ultra_deluxe_01.jpg",
+    "date": "2026-01-22"
   }
 ]
-
