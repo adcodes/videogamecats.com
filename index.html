@@ -280,7 +280,7 @@ footer {
 <div class="search-bar">
   <div class="search-wrap">
     <span class="search-icon">⌕</span>
-    <input class="search-input" type="text" id="searchInput" placeholder="search games…" oninput="render()">
+    <input class="search-input" type="text" id="searchInput" placeholder="search games or descriptions…" oninput="render()">
   </div>
 </div>
 
@@ -328,10 +328,11 @@ function render() {
   const msg = document.getElementById('stateMsg');
   [...gallery.querySelectorAll('.card')].forEach(e=>e.remove());
 
+  const totalGames = new Set(allCards.map(c => c.game)).size;
   document.getElementById('galleryCount').textContent =
     items.length === allCards.length
-      ? `${allCards.length} screenshot${allCards.length !== 1 ? 's' : ''}`
-      : `${items.length} of ${allCards.length}`;
+      ? `${totalGames} game${totalGames !== 1 ? 's' : ''}, ${allCards.length} screenshot${allCards.length !== 1 ? 's' : ''}`
+      : `${items.length} of ${allCards.length} screenshots`;
 
   if (items.length === 0) {
     msg.textContent = allCards.length === 0 ? 'no screenshots yet' : 'no matches';
