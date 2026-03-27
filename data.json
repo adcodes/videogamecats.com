@@ -581,5 +581,161 @@
     "desc": "Cowboy Cat",
     "img": "images/dicey_dungeons/dicey_dungeons_01.jpg",
     "date": "2026-01-22"
+  },
+  {
+    "game": "Fall Guys",
+    "desc": "GATO ROBOTO",
+    "img": "images/fall_guys/fall_guys_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Fall Guys",
+    "desc": "TUXEDO PURRRSE",
+    "img": "images/fall_guys/fall_guys_02.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "CoD MW2",
+    "desc": "MANEKI-NEKO",
+    "img": "images/cod_mw2/cod_mw2_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "CoD MW2",
+    "desc": "SGT. SPRINKLES",
+    "img": "images/cod_mw2/cod_mw2_02.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "CoD MW2",
+    "desc": "CAT SQUAD",
+    "img": "images/cod_mw2/cod_mw2_03.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "CoD MW2",
+    "desc": "SGT. PSPSPS",
+    "img": "images/cod_mw2/cod_mw2_04.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Cat Quest II",
+    "desc": "Cat Rags",
+    "img": "images/cat_quest_ii/cat_quest_ii_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Catlateral Damage Remeowstered",
+    "desc": "Select a Cat",
+    "img": "images/catlateral_damage_remeowstered/catlateral_damage_remeowstered_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Catlateral Damage Remeowstered",
+    "desc": "Meowvelous!",
+    "img": "images/catlateral_damage_remeowstered/catlateral_damage_remeowstered_02.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Catlateral Damage Remeowstered",
+    "desc": "Pick Up",
+    "img": "images/catlateral_damage_remeowstered/catlateral_damage_remeowstered_03.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Assassin's Creed Valhalla",
+    "desc": "Heavy Is the Head",
+    "img": "images/assassins_creed_valhalla/assassins_creed_valhalla_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Assassin's Creed Valhalla",
+    "desc": "Pet",
+    "img": "images/assassins_creed_valhalla/assassins_creed_valhalla_02.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Assassin's Creed Valhalla",
+    "desc": "House of Cats Door Key",
+    "img": "images/assassins_creed_valhalla/assassins_creed_valhalla_03.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Atari 50 The Anniversary Celebration",
+    "desc": "CORPORAL MCFUR...",
+    "img": "images/atari_50_the_anniversary_celebration/atari_50_the_anniversary_celebration_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Blinx The Time Sweeper",
+    "desc": "This is me, Blinx.",
+    "img": "images/blinx_the_time_sweeper/blinx_the_time_sweeper_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Call of Duty MW2 DMZ",
+    "desc": "...but the cat looks menacing regardless.",
+    "img": "images/call_of_duty_mw2_dmz/call_of_duty_mw2_dmz_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Call of Duty Warzone",
+    "desc": "ANCIENT PURRING",
+    "img": "images/call_of_duty_warzone/call_of_duty_warzone_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Call of Duty Warzone",
+    "desc": "PIANO CAT",
+    "img": "images/call_of_duty_warzone/call_of_duty_warzone_02.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Call of Duty Warzone",
+    "desc": "TACTICAL MEOW",
+    "img": "images/call_of_duty_warzone/call_of_duty_warzone_03.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Call of the Wild The Angler",
+    "desc": "MISSING! RAYMOND",
+    "img": "images/call_of_the_wild_the_angler/call_of_the_wild_the_angler_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Another Sight",
+    "desc": "Cat",
+    "img": "images/another_sight/another_sight_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Another Sight",
+    "desc": "Switch characters to control the Cat.",
+    "img": "images/another_sight/another_sight_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "As Dusk Falls",
+    "desc": "Cat",
+    "img": "images/as_dusk_falls/as_dusk_falls_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "As Dusk Falls",
+    "desc": "Cat",
+    "img": "images/as_dusk_falls/as_dusk_falls_02.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "As Dusk Falls",
+    "desc": "Sleeping Cat",
+    "img": "images/as_dusk_falls/as_dusk_falls_02.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Zombie Derby Pixel Survival",
+    "desc": "Have you met my cat in the garage?",
+    "img": "images/zombie_derby_pixel_survival/zombie_derby_pixel_survival_01.jpg",
+    "date": "2026-01-22"
   }
 ]
