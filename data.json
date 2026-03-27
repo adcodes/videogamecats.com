@@ -389,5 +389,65 @@
     "desc": "Liberate the captured cats!",
     "img": "images/minekos_night_market/minekos_night_market_03.jpg",
     "date": "2026-01-22"
+  },
+  {
+    "game": "Moonglow Bay",
+    "desc": "Exactly. The Two Cats",
+    "img": "images/moonglow_bay/moonglow_bay_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Multiversus",
+    "desc": "Cake",
+    "img": "images/multiversus/multiversus_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Night in the Woods",
+    "desc": "Cat",
+    "img": "images/night_in_the_woods/night_in_the_woods_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Night in the Woods",
+    "desc": "Cat",
+    "img": "images/night_in_the_woods/night_in_the_woods_02.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "House Flipper",
+    "desc": "Cat",
+    "img": "images/house_flipper/house_flipper_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "It Takes Two",
+    "desc": "Cat",
+    "img": "images/it_takes_two_01/it_takes_two_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "It's Kooky",
+    "desc": "Surfing Cat",
+    "img": "images/its_kooky/its_kooky_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Knights of the Round",
+    "desc": "Big Cats",
+    "img": "images/knights_of_the_round/knights_of_the_round_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Lake",
+    "desc": "Yes, I do like cats. Is that such a crime?",
+    "img": "images/lake/lake_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "LEGO Star Wars The Skywalker Saga",
+    "desc": "Tooka cats",
+    "img": "images/lego_star_wars_the_skywalker_saga/lego_star_wars_the_skywalker_saga_01.jpg",
+    "date": "2026-01-22"
   }
 ]
