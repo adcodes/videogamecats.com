@@ -711,24 +711,18 @@
   {
     "game": "Another Sight",
     "desc": "Switch characters to control the Cat.",
-    "img": "images/another_sight/another_sight_01.jpg",
+    "img": "images/another_sight/another_sight_02.jpg",
     "date": "2026-01-22"
   },
   {
     "game": "As Dusk Falls",
-    "desc": "Cat",
+    "desc": "Sleeping Cat",
     "img": "images/as_dusk_falls/as_dusk_falls_01.jpg",
     "date": "2026-01-22"
   },
   {
     "game": "As Dusk Falls",
     "desc": "Cat",
-    "img": "images/as_dusk_falls/as_dusk_falls_02.jpg",
-    "date": "2026-01-22"
-  },
-  {
-    "game": "As Dusk Falls",
-    "desc": "Sleeping Cat",
     "img": "images/as_dusk_falls/as_dusk_falls_02.jpg",
     "date": "2026-01-22"
   },
