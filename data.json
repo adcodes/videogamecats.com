@@ -731,5 +731,83 @@
     "desc": "Have you met my cat in the garage?",
     "img": "images/zombie_derby_pixel_survival/zombie_derby_pixel_survival_01.jpg",
     "date": "2026-01-22"
+  },
+  {
+    "game": "ASTRO BOT",
+    "desc": "Curious Kitty",
+    "img": "images/astro_bot/astro_bot_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "ASTRO BOT",
+    "desc": "Friendly Drone",
+    "img": "images/astro_bot/astro_bot_02.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "ASTRO BOT",
+    "desc": "Streetwise Cat",
+    "img": "images/astro_bot/astro_bot_03.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "ASTRO BOT",
+    "desc": "Trouble?",
+    "img": "images/astro_bot/astro_bot_04.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "DEATH STRANDING 2: ON THE BEACH",
+    "desc": "Chiral Cat",
+    "img": "images/death_stranding_2_on_the_beach/death_stranding_2_on_the_beach_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "DEATH STRANDING 2: ON THE BEACH",
+    "desc": "YAMATO TRANSPORT",
+    "img": "images/death_stranding_2_on_the_beach/death_stranding_2_on_the_beach_02.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "DEATH STRANDING 2: ON THE BEACH",
+    "desc": "Thumbs up",
+    "img": "images/death_stranding_2_on_the_beach/death_stranding_2_on_the_beach_03.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Marvel's Spider-Man 2",
+    "desc": "Teo's and The Bodega",
+    "img": "images/marvels_spider-man_2/marvels_spider-man_2_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Marvel's Spider-Man 2",
+    "desc": "Comfy",
+    "img": "images/marvels_spider-man_2/marvels_spider-man_2_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Marvel's Spider-Man 2",
+    "desc": "Spider-Man",
+    "img": "images/marvels_spider-man_2/marvels_spider-man_2_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Marvel's Spider-Man 2",
+    "desc": "Spider-Man and Spider-Man",
+    "img": "images/marvels_spider-man_2/marvels_spider-man_2_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "No Man's Sky",
+    "desc": "Cat?",
+    "img": "images/no_mans_sky/no_mans_sky_02.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Cyberpunk 2077",
+    "desc": "FEED TEH CAT",
+    "img": "images/cyberpunk_2077/cyberpunk_2077_01.jpg",
+    "date": "2026-01-22"
   }
 ]
