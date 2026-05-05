@@ -815,5 +815,17 @@
     "desc": "Bingus🐈 is that you👂?",
     "video": "6JmqfYz6330",
     "date": "2026-01-22"
+  },
+  {
+    "game": "Marathon",
+    "desc": "SMOL K.I.T.T.Y",
+    "img": "images/marathon/marathon_01.jpg",
+    "date": "2026-01-22"
+  },
+  {
+    "game": "Saros",
+    "desc": "And cats!",
+    "img": "images/saros/saros_01.jpg",
+    "date": "2026-01-22"
   }
 ]
